@@ -1,0 +1,15 @@
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\bin\Debug\net6.0\tasc8.exe
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\bin\Debug\net6.0\tasc8.deps.json
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\bin\Debug\net6.0\tasc8.runtimeconfig.json
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\bin\Debug\net6.0\tasc8.dll
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\bin\Debug\net6.0\tasc8.pdb
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.csproj.AssemblyReference.cache
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.AssemblyInfoInputs.cache
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.AssemblyInfo.cs
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.csproj.CoreCompileInputs.cache
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.dll
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\refint\tasc8.dll
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.pdb
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\tasc8.genruntimeconfig.cache
+C:\Tasc_C#\Tack_on_C\tasc1\tasc8\obj\Debug\net6.0\ref\tasc8.dll
