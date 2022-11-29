@@ -1,0 +1,15 @@
+C:\C#_2_3\Tack_on_C\Tasc21\bin\Debug\net6.0\Tasc21.exe
+C:\C#_2_3\Tack_on_C\Tasc21\bin\Debug\net6.0\Tasc21.deps.json
+C:\C#_2_3\Tack_on_C\Tasc21\bin\Debug\net6.0\Tasc21.runtimeconfig.json
+C:\C#_2_3\Tack_on_C\Tasc21\bin\Debug\net6.0\Tasc21.dll
+C:\C#_2_3\Tack_on_C\Tasc21\bin\Debug\net6.0\Tasc21.pdb
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.csproj.AssemblyReference.cache
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.AssemblyInfoInputs.cache
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.AssemblyInfo.cs
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.csproj.CoreCompileInputs.cache
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.dll
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\refint\Tasc21.dll
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.pdb
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\Tasc21.genruntimeconfig.cache
+C:\C#_2_3\Tack_on_C\Tasc21\obj\Debug\net6.0\ref\Tasc21.dll
