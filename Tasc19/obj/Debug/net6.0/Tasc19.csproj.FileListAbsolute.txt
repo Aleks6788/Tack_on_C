@@ -1,0 +1,15 @@
+C:\C#_2_3\Tack_on_C\Tasc19\bin\Debug\net6.0\Tasc19.exe
+C:\C#_2_3\Tack_on_C\Tasc19\bin\Debug\net6.0\Tasc19.deps.json
+C:\C#_2_3\Tack_on_C\Tasc19\bin\Debug\net6.0\Tasc19.runtimeconfig.json
+C:\C#_2_3\Tack_on_C\Tasc19\bin\Debug\net6.0\Tasc19.dll
+C:\C#_2_3\Tack_on_C\Tasc19\bin\Debug\net6.0\Tasc19.pdb
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.csproj.AssemblyReference.cache
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.AssemblyInfoInputs.cache
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.AssemblyInfo.cs
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.csproj.CoreCompileInputs.cache
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.dll
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\refint\Tasc19.dll
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.pdb
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\Tasc19.genruntimeconfig.cache
+C:\C#_2_3\Tack_on_C\Tasc19\obj\Debug\net6.0\ref\Tasc19.dll
