@@ -1,0 +1,15 @@
+C:\C#_2_3\Tack_on_C\Tasc23\bin\Debug\net6.0\Tasc23.exe
+C:\C#_2_3\Tack_on_C\Tasc23\bin\Debug\net6.0\Tasc23.deps.json
+C:\C#_2_3\Tack_on_C\Tasc23\bin\Debug\net6.0\Tasc23.runtimeconfig.json
+C:\C#_2_3\Tack_on_C\Tasc23\bin\Debug\net6.0\Tasc23.dll
+C:\C#_2_3\Tack_on_C\Tasc23\bin\Debug\net6.0\Tasc23.pdb
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.csproj.AssemblyReference.cache
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.AssemblyInfoInputs.cache
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.AssemblyInfo.cs
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.csproj.CoreCompileInputs.cache
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.dll
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\refint\Tasc23.dll
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.pdb
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\Tasc23.genruntimeconfig.cache
+C:\C#_2_3\Tack_on_C\Tasc23\obj\Debug\net6.0\ref\Tasc23.dll
