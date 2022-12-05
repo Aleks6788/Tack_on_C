@@ -1,0 +1,15 @@
+C:\C#_4\Tack_on_C\Tasc29\bin\Debug\net6.0\Tasc29.exe
+C:\C#_4\Tack_on_C\Tasc29\bin\Debug\net6.0\Tasc29.deps.json
+C:\C#_4\Tack_on_C\Tasc29\bin\Debug\net6.0\Tasc29.runtimeconfig.json
+C:\C#_4\Tack_on_C\Tasc29\bin\Debug\net6.0\Tasc29.dll
+C:\C#_4\Tack_on_C\Tasc29\bin\Debug\net6.0\Tasc29.pdb
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.csproj.AssemblyReference.cache
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.AssemblyInfoInputs.cache
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.AssemblyInfo.cs
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.csproj.CoreCompileInputs.cache
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.dll
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\refint\Tasc29.dll
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.pdb
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\Tasc29.genruntimeconfig.cache
+C:\C#_4\Tack_on_C\Tasc29\obj\Debug\net6.0\ref\Tasc29.dll
