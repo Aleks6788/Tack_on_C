@@ -1,0 +1,15 @@
+C:\C#_4\Tack_on_C\Tasc27\bin\Debug\net6.0\Tasc27.exe
+C:\C#_4\Tack_on_C\Tasc27\bin\Debug\net6.0\Tasc27.deps.json
+C:\C#_4\Tack_on_C\Tasc27\bin\Debug\net6.0\Tasc27.runtimeconfig.json
+C:\C#_4\Tack_on_C\Tasc27\bin\Debug\net6.0\Tasc27.dll
+C:\C#_4\Tack_on_C\Tasc27\bin\Debug\net6.0\Tasc27.pdb
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.csproj.AssemblyReference.cache
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.AssemblyInfoInputs.cache
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.AssemblyInfo.cs
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.csproj.CoreCompileInputs.cache
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.dll
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\refint\Tasc27.dll
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.pdb
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\Tasc27.genruntimeconfig.cache
+C:\C#_4\Tack_on_C\Tasc27\obj\Debug\net6.0\ref\Tasc27.dll
