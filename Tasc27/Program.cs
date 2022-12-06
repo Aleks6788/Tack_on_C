@@ -1,13 +1,16 @@
-﻿
+﻿// Найти сумму цифр числа. (678)
+// решение с использованием нумерации строк: 678
+//                             номера строк: 012
 Console.Write("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine()), result = 0;
-while (n > 0)
-{
-    int x = n % 10;
-    result = result +  x;
-    n = n / 10;
-}
-Console.WriteLine($"Результат: {result}");
+string? n = Console.ReadLine(); // теперь это число записано как 
+// строка, каждому символу соответствует ромер
+int result = 0;
+for (int i = 0; i < n.Length; i++) // проходим по всем номерам строки
+// с помощью Length находим длину строки
+    result = result + int.Parse(n[i].ToString()); // с помощью функции  ToString
+    // переведдем в тип данных int, с помощтю n[i], проходимся по каждому символу строки
+    // 
+Console.WriteLine(result);
 
 
 

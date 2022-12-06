@@ -1,0 +1,15 @@
+C:\C#_4\Tack_on_C\Tasc25\bin\Debug\net6.0\Tasc25.exe
+C:\C#_4\Tack_on_C\Tasc25\bin\Debug\net6.0\Tasc25.deps.json
+C:\C#_4\Tack_on_C\Tasc25\bin\Debug\net6.0\Tasc25.runtimeconfig.json
+C:\C#_4\Tack_on_C\Tasc25\bin\Debug\net6.0\Tasc25.dll
+C:\C#_4\Tack_on_C\Tasc25\bin\Debug\net6.0\Tasc25.pdb
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.csproj.AssemblyReference.cache
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.AssemblyInfoInputs.cache
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.AssemblyInfo.cs
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.csproj.CoreCompileInputs.cache
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.dll
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\refint\Tasc25.dll
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.pdb
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\Tasc25.genruntimeconfig.cache
+C:\C#_4\Tack_on_C\Tasc25\obj\Debug\net6.0\ref\Tasc25.dll
